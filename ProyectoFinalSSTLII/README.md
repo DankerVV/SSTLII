@@ -18,3 +18,8 @@ Una vez impreso el Análisis Léxico, se procede con la impresion del Árbol Sin
 
 "imagen x2". 
 
+En este ejemplo no hay errores semánticos, por lo que el código no tiene erroes que mostrar. De lo contrario, informa una entrada no válida. 
+
+<img width="388" alt="image" src="https://github.com/DankerVV/SSTLII/assets/123404725/b7b5368b-d4ad-4519-b4ac-cd59cdc3c4d2">. 
+
+Por último, se procede a la generación de código en lenguaje ensamblador. Este proyecto genera el siguiente código código para MASM:
