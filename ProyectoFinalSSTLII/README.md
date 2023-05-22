@@ -16,6 +16,7 @@ Lo siguiente es la impresion del Análisis Léxico. La impresión da informacion
 Una vez impreso el Análisis Léxico, se procede con la impresion del Árbol Sintáctico. 
 
 ![image](https://github.com/DankerVV/SSTLII/assets/123404725/3cc24cea-56e2-4bf5-9031-50a4642f9551)
+![image](https://github.com/DankerVV/SSTLII/assets/123404725/b7f0ccbf-7db9-4e39-9f97-69810264e446)
 
 
 En este ejemplo no hay errores semánticos, por lo que el código no tiene erroes que mostrar. De lo contrario, informa una entrada no válida. 
