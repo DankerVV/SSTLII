@@ -24,3 +24,4 @@ En este ejemplo no hay errores semánticos, por lo que el código no tiene erroe
 <img width="388" alt="image" src="https://github.com/DankerVV/SSTLII/assets/123404725/b7b5368b-d4ad-4519-b4ac-cd59cdc3c4d2">. 
 
 Por último, se procede a la generación de código en lenguaje ensamblador. Este proyecto genera el siguiente código código para MASM:
+![image](https://github.com/DankerVV/SSTLII/assets/123404725/65c60602-07aa-4fc4-ac59-01ac9cd2e3dc)
