@@ -21,7 +21,7 @@ Una vez impreso el Análisis Léxico, se procede con la impresion del Árbol Sin
 
 En este ejemplo no hay errores semánticos, por lo que el código no tiene erroes que mostrar. De lo contrario, informa una entrada no válida. 
 
-<img width="388" alt="image" src="https://github.com/DankerVV/SSTLII/assets/123404725/b7b5368b-d4ad-4519-b4ac-cd59cdc3c4d2">
+![image](https://github.com/DankerVV/SSTLII/assets/123404725/91f0a297-569f-4000-b704-ff782361cd76)
 
 Aquí pongo otro ejemplo donde no se declare el tipo de dato de la variable resul1, por lo que se alerta de un error.
 ![image](https://github.com/DankerVV/SSTLII/assets/123404725/ee848e45-048d-484f-a80f-7f9614c914d1)
