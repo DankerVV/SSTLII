@@ -1,5 +1,6 @@
 Seminario Para la Solución de Problemas de Traductores de Lenguajes II. 
-Proyecto Final
+
+Proyecto Final. 
 
 El código a analizar se introduce desde el archivo "test.txt", para este ejemplo se usará el siguiente código, que tiene una función de suma y otra de resta.
 
