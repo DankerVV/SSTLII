@@ -10,8 +10,7 @@ Al correr el código, lo primero que se hace es imprimir el código que recibió
 
 Lo siguiente es la impresion del Análisis Léxico. La impresión da informacion sobre el símbolo y tipo de cada Token. 
 
-![image](https://github.com/DankerVV/SSTLII/assets/123404725/c0efc124-48dc-4b27-9f25-3ac735aa0519)
-<img width="771" alt="image" src="https://github.com/DankerVV/SSTLII/assets/123404725/b6212558-4e7d-4983-9fd2-0ee2cb772f2d">
+![image](https://github.com/DankerVV/SSTLII/assets/123404725/6b41296b-73c5-428e-920e-ce3f29d5fcc9)
 
 
 Una vez impreso el Análisis Léxico, se procede con la impresion del Árbol Sintáctico. 
